@@ -45,6 +45,8 @@ A policy-gradient method that optimizes the policy directly, ensuring stable and
 
 ## 🎮 Running the Streamlit App
 
+🚀 Try the live demo here: [rl-space-invaders.streamlit.app](https://rl-space-invaders.streamlit.app/)
+
 Launch the Streamlit application to visualize agent gameplay:
 
 ```bash
