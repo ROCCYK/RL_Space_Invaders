@@ -17,10 +17,9 @@ PPO_MODEL_PATH = "ppo_spaceinvaders.pth"
 
 # Streamlit UI Setup
 st.title("🎮 Space Invaders - DQN vs PPO Demo")
+st.markdown("Created By: Rhichard Koh")
 st.markdown("""
 This app lets you run a trained agent (DQN or PPO) to play Space Invaders in real-time.
-
-Created By: Rhichard Koh
 
 - **DQN**: Uses value-based greedy policy  
 - **PPO**: Uses policy gradient and actor-critic structure  
